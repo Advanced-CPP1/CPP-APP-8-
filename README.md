@@ -4,4 +4,6 @@ Hello everyone, this is an app that I've been working on, it's an app where you 
 The app also allowas you to change the background, it also has a dark mode.
 
 <strong>Light Mode</strong>
+
+
 ![image](https://user-images.githubusercontent.com/117765687/204164035-43479e1c-c972-435f-91cb-08d65f509cd7.png)

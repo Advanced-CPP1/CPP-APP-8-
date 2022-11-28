@@ -6,4 +6,5 @@ The app also allowas you to change the background, it also has a dark mode.
 <h2>Light Mode</h2>
 
 
-![image](https://user-images.githubusercontent.com/117765687/204164035-43479e1c-c972-435f-91cb-08d65f509cd7.png)
+![Picture1](https://user-images.githubusercontent.com/117765687/204168643-5d23273b-6e9d-4a3f-b733-14fe014a0b75.png)
+

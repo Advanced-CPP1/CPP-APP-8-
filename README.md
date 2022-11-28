@@ -1,7 +1,7 @@
 # CPP-APP-8-
 
 Hello everyone, this is an app that I've been working on, it's an app where you can search for a programming language and then it shows you examples of the code in that language.
-The app also allowas you to change the background, it also has a dark mode. I wrote the app with Qt C++. Qt is a really good framework used for writing applications.
+The app also allows you to change the background, it also has a dark mode. I wrote the app with Qt C++. Qt is a really good framework used for writing applications.
 
 <h2>Light Mode</h2>
 

@@ -11,4 +11,6 @@ The app also allowas you to change the background, it also has a dark mode.
 <h2>Dark Mode</h2>
 
 
+
+
 ![image](https://user-images.githubusercontent.com/117765687/204169872-695b81ee-0f49-442e-ae69-5dc642b5ff89.png)

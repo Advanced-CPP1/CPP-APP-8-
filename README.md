@@ -8,3 +8,7 @@ The app also allowas you to change the background, it also has a dark mode.
 
 ![Picture1](https://user-images.githubusercontent.com/117765687/204168643-5d23273b-6e9d-4a3f-b733-14fe014a0b75.png)
 
+<h2>Dark Mode</h2>
+
+
+![image](https://user-images.githubusercontent.com/117765687/204169872-695b81ee-0f49-442e-ae69-5dc642b5ff89.png)
